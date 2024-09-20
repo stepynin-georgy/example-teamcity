@@ -10,7 +10,7 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
-	public String saySome(){
-		return "something in the way";
+	public String sayAttention(){
+		return "Attention hunter, wild animals!";
 	}
 }
